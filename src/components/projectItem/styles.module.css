@@ -1,0 +1,5 @@
+.projectItemContainer {
+  cursor: pointer;
+  line-height: 1.25;
+  padding: 5px 0;
+}
